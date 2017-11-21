@@ -1,0 +1,13 @@
+C:\Users\林志隆\Desktop\ETL\其他\excelTransform\excelTransform\bin\Debug\excelTransform.exe.config
+C:\Users\林志隆\Desktop\ETL\其他\excelTransform\excelTransform\bin\Debug\excelTransform.exe
+C:\Users\林志隆\Desktop\ETL\其他\excelTransform\excelTransform\bin\Debug\excelTransform.pdb
+C:\Users\林志隆\Desktop\ETL\其他\excelTransform\excelTransform\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\林志隆\Desktop\ETL\其他\excelTransform\excelTransform\bin\Debug\NPOI.dll
+C:\Users\林志隆\Desktop\ETL\其他\excelTransform\excelTransform\bin\Debug\NPOI.OOXML.dll
+C:\Users\林志隆\Desktop\ETL\其他\excelTransform\excelTransform\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\林志隆\Desktop\ETL\其他\excelTransform\excelTransform\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\林志隆\Desktop\ETL\其他\excelTransform\excelTransform\bin\Debug\NPOI.xml
+C:\Users\林志隆\Desktop\ETL\其他\excelTransform\excelTransform\obj\Debug\excelTransform.csproj.CoreCompileInputs.cache
+C:\Users\林志隆\Desktop\ETL\其他\excelTransform\excelTransform\obj\Debug\excelTransform.exe
+C:\Users\林志隆\Desktop\ETL\其他\excelTransform\excelTransform\obj\Debug\excelTransform.pdb
+C:\Users\林志隆\Desktop\ETL\其他\excelTransform\excelTransform\obj\Debug\excelTransform.csprojResolveAssemblyReference.cache
